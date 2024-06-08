@@ -1,6 +1,7 @@
-﻿paleocurrent_trend,paleocurrent_plunge,up_or_down,bedding_dip_direction,bedding_dip,group,note,year,,
-9,49,up,13,52,Nick S-H,flute casts; flow to south,2022,,
-40,42,up,6,52,Nick S-H,current ripple; flow to southwest,2022,,
+﻿paleocurrent_trend,paleocurrent_plunge,up_or_down,bedding_dip_direction,bedding_dip,person,note,year,latitude,longitude
+229,2,down,84,19,Nick S-H,flame structure verging to SW,,36.522375,-121.934668
+9,49,up,13,52,Nick S-H,flute casts; flow to south,2022,36.512357,-121.943502
+40,42,up,6,52,Nick S-H,current ripple; flow to southwest,2022,36.512254,-121.943461
 50,53,up,15,57,Nick S-H,current ripple; flow to southwest,2022,36.51219309,-121.9434169
 67,46,up,24,62,Nick S-H,current ripple; flow to southwest,2022,36.5122492,-121.9436111
 60,23,up,21,30,Nick S-H,current ripple; flow to southwest,2022,36.51237313,-121.9436279
@@ -13,7 +14,7 @@
 230,9,down,173,14,Nick S-H,current ripple; flow to southwest,2022,36.51326458,-121.9438708
 192,9,down,173,14,Nick S-H,current ripple; flow to southwest,2022,36.51328091,-121.9438976
 204,9,down,162,14,Nick S-H,current ripple; flow to southwest,2022,36.51320961,-121.9437357
-211,11,down,187,5,Nick S-H,current ripple; flow to southwest,2022,,
+211,11,down,187,5,Nick S-H,current ripple; flow to southwest,2022,36.512801,-121.943659
 185,3,down,189,7,Nick S-H,current ripple; flow to southwest,2024,36.512593,-121.943445
 65,41,up,359,71,Nick S-H,current ripple; flow to southwest,2024,36.512282,-121.943014
 71,43,up,35,51,Nick S-H,current ripple; flow to southwest,2024,36.512256,-121.94349
